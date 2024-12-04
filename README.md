@@ -10,4 +10,4 @@
 * commit : snapshot of changes that you make
 * push : send commits from local to remote
 * pull : recieve commits from remeote to local
-When typing at the same time, they can merge together unlike other sources that are used in coding.
+<p>When typing at the same time, they can merge together unlike other sources that are used in coding.</p>
